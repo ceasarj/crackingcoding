@@ -1,4 +1,4 @@
-package chapter3.treesandgraphs.trees;
+package chapter4.treesandgraphs.trees;
 
 /**
  * Created by ceejay562 on 9/19/2016.

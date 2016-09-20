@@ -1,4 +1,4 @@
-package chapter3.treesandgraphs.graphs;
+package chapter4.treesandgraphs.graphs;
 
 import java.util.List;
 

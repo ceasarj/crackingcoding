@@ -1,11 +1,10 @@
-package chapter3.treesandgraphs;
+package chapter4.treesandgraphs;
 
-import chapter3.treesandgraphs.graphs.Graph;
-import chapter3.treesandgraphs.graphs.Node;
+import chapter4.treesandgraphs.graphs.Graph;
+import chapter4.treesandgraphs.graphs.Node;
 
 import java.util.HashSet;
 import java.util.Set;
-import java.util.Stack;
 
 /**
  * Created by ceejay562 on 9/19/2016.

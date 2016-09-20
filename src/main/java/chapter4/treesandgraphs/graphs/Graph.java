@@ -1,7 +1,6 @@
-package chapter3.treesandgraphs.graphs;
+package chapter4.treesandgraphs.graphs;
 
 import java.util.ArrayList;
-import java.util.Random;
 
 /**
  * Created by ceejay562 on 9/19/2016.
