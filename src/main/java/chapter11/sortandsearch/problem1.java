@@ -27,7 +27,7 @@ public class problem1 {
     }
 
     public static void main(String[] args) {
-        int[] a = {2, 3, 4, 5, 6, 8, 10, 100, 0, 0, 0, 0, 0};
+        int[] a = {10, 100, 0, 0, 0, 0, 0};
         int[] b = {1, 4, 6, 7, 7};
         merge(a, b);
         for(int e: a){
